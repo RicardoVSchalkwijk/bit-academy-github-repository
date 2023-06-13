@@ -1,0 +1,1 @@
+This repository contains folders with code of my excercises I did for school
