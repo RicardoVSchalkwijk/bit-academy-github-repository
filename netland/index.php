@@ -2,8 +2,6 @@
 
 require_once('services.php');
 
-$niks = "bit_academy";
-
 if (empty($_SESSION['loggedInUser'])) {
     header('Location:login.php');
 }
